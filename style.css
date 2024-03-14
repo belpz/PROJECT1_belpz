@@ -2,3 +2,9 @@ h1 {
   color: red;
 }
 
+body {
+  background-color: aliceblue;
+}
+
+.p {
+  font-family: "Papyrus", Fantasy;
